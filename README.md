@@ -1,1 +1,1 @@
-# shajs-angular-example and C/# example
+# shajs-angular-example and C# example
